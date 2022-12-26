@@ -1,2 +1,167 @@
 ﻿@page "/counter"
 
+<html>
+<head>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+
+<div class="container-fluid">
+    <div class="animated fadeIn">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="card">
+                    <div class="card-header">
+                        <strong>General Information</strong>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="name">Customer Name</label>
+                                    <input class="form-control" id="name" type="text" placeholder="Enter your name">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.row-->
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="ccnumber">Mobile1</label>
+                                    <input class="form-control" id="ccnumber" type="text" placeholder="Enter Your Mobile Number">
+                                </div>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="ccnumber">Mobile2</label>
+                                    <input class="form-control" id="ccnumber" type="text" placeholder="Enter Your Alternate Number">
+                                </div>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="ccnumber">Contact Name</label>
+                                    <input class="form-control" id="ccnumber" type="text" placeholder="Enter Your Contact Name">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.row-->
+                        <div class="row">
+                            <div >
+                                <label for="ccmonth1">Select Category</label>
+                                <select class="form-control" id="ccmonth1">
+                                    <option>dddddddddddd</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option>7</option>
+                                    <option>8</option>
+                                    <option>9</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                </select>
+                            </div>                           
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-sm-4">
+                                <label for="ccmonth">Source</label>
+                                <select class="form-control" id="ccmonth">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option>7</option>
+                                    <option>8</option>
+                                    <option>9</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                </select>
+                            </div>                           
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-sm-4">
+                                <label for="ccmonth">Status</label>
+                                <select class="form-control" id="ccmonth">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option>7</option>
+                                    <option>8</option>
+                                    <option>9</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                </select>
+                            </div>                           
+                        </div>
+                         <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="ccnumber">Remark</label>
+                                    <input class="form-control" id="ccnumber" type="text" placeholder="Description">
+                                </div>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <label for="ccnumber">Remark</label>
+                                    <input class="form-control" id="ccnumber" type="text" placeholder="Description">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                                <label class="col-md-3 col-form-label" for="date-input">Follow Up Date</label>
+                                <div class="col-md-9">
+                                    <input class="form-control" id="date-input" type="date" name="date-input" placeholder="Date">
+                                    <span class="help-block">Please enter a valid date</span>
+                                </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.col-->
+            <div class="col-sm-6">
+                <div class="card">
+                    <div class="card-header">
+                        <strong>Contact Details</strong>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="company">Address</label>
+                            <input class="form-control" id="company" type="text" placeholder="Enter your Address">
+                        </div>
+                        <div class="form-group">
+                            <label for="vat">Business Name</label>
+                            <input class="form-control" id="vat" type="text" placeholder="Enter your Business Name">
+                        </div>                       
+                       
+                    </div>
+                </div>
+            </div>
+             <div class="card-footer">
+                    <button type="button" class="btn btn-primary">Primary</button>
+                <button class="btn btn-sm btn-danger" type="reset">
+                    <i class="fa fa-ban"></i> Reset
+                </button>
+            </div>
+        </div>
+       
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\last.styles.css",
+      "PackagePath": "staticwebassets\\last.styles.css"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Vineetha\\ERP EMS\\EMS\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.last.props",
+      "PackagePath": "build\\last.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.last.props",
+      "PackagePath": "buildMultiTargeting\\last.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.last.props",
+      "PackagePath": "buildTransitive\\last.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.last.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
