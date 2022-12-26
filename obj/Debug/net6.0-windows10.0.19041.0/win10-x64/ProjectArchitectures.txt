@@ -1,0 +1,1 @@
+C:\Users\DCS\Source\maui-html-sample\last.csproj;x64

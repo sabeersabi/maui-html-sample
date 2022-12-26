@@ -1,0 +1,738 @@
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.exe
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.deps.json
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.runtimeconfig.json
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.pdb
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\maui\test maui\last\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.csproj.AssemblyReference.cache
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\last.styles.css
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\last.bundle.scp.css
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.GeneratedMSBuildEditorConfig.editorconfig
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.AssemblyInfoInputs.cache
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.AssemblyInfo.cs
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.csproj.CoreCompileInputs.cache
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.csproj.CopyComplete
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.dll
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\last.dll
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.pdb
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.genruntimeconfig.cache
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\last.dll
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\maui\test maui\last\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.exe
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.deps.json
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.runtimeconfig.json
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.pdb
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-console-l1-2-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l1-2-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-file-l2-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-string-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-core-util-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dbgshim.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_6.0.1122.52304.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\ucrtbase.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\DCS\Source\maui-html-sample\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.csproj.AssemblyReference.cache
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\last.styles.css
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\last.bundle.scp.css
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.AssemblyInfoInputs.cache
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.AssemblyInfo.cs
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.csproj.CoreCompileInputs.cache
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.csproj.CopyComplete
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.dll
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\refint\last.dll
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.pdb
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.genruntimeconfig.cache
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ref\last.dll
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\DCS\Source\maui-html-sample\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
