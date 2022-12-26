@@ -1,0 +1,221 @@
+﻿@page "/status"
+@using Newtonsoft.Json;
+@using last.ConnectionData;
+@inject NavigationManager NavManager
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>status</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <style>
+        .banner {
+            position: relative;
+            height: 250px;
+            background-color: #e1f2f5;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+            .banner::after {
+                content: "";
+                background-color: rgba(0, 0, 0, 0.3);
+                position: absolute;
+                width: 100%;
+                height: 100%;
+            }
+
+        .btn-block {
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        button {
+            width: 150px;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background: #669999;
+            font-size: 16px;
+            color: #fff;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background: #a3c2c2;
+            }
+        /*toggle*/
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 24px;
+        }
+
+            /* Hide default HTML checkbox */
+            .switch input {
+                opacity: 0;
+                width: 0;
+                height: 0;
+            }
+
+        /* The slider */
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+
+            .slider:before {
+                position: absolute;
+                content: "";
+                height: 16px;
+                width: 16px;
+                left: 4px;
+                bottom: 4px;
+                background-color: white;
+                -webkit-transition: .4s;
+                transition: .4s;
+            }
+
+        input:checked + .slider {
+            background-color: #2196F3;
+        }
+
+        input:focus + .slider {
+            box-shadow: 0 0 1px #2196F3;
+        }
+
+        input:checked + .slider:before {
+            -webkit-transform: translateX(26px);
+            -ms-transform: translateX(26px);
+            transform: translateX(26px);
+        }
+
+        /* Rounded sliders */
+        .slider.round {
+            border-radius: 34px;
+        }
+
+            .slider.round:before {
+                border-radius: 50%;
+            }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="banner">
+            <h1><b>Status</b></h1>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <form>
+        <div class="form-group">
+            <label for="Input">Full name</label>
+            <input type="email" class="form-control" id="name" placeholder="Enter your name">
+        </div>
+        <div class="form-group">
+            <label for="Description">Description</label>
+            <textarea class="form-control" id="Description" rows="3"></textarea>
+        </div>
+        <div class="form-group ">
+            <label for="Select1">Select Type</label>
+            <select class="form-control" id="type1">
+                <option>Success</option>
+                <option>Warm</option>
+                <option>Error</option>
+            </select>
+        </div>
+        <br />
+        <br />
+        <div>
+            <label class="switch">
+                <input type="checkbox">
+                <span class="slider round"></span>
+            </label>add feild
+        </div>
+
+        <div class="btn-block">
+            <button type="submit">Submit</button>
+        </div>
+
+    </form>
+
+
+</body>
+
+</html>
+
+@code{
+    string userNameStatus = "";
+    string descriptionStatus = "";
+    string selectedType = "";
+
+    //aditional items
+
+    string optionalItem1 = "";
+    string optionalItem2 = "";
+    string optionalItem3 = "";
+
+
+
+    async void loginFunction()
+    {
+        //Login funtion
+
+        if (userNameStatus == "" || descriptionStatus == "")
+        {
+            //Pop up alert window
+            await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
+        }
+        else
+        {
+            //Call api and stuff
+
+            var postData = new List<StatusModelClass>();
+            postData = await postDataFun();
+
+            if (postData != null)
+            {
+                //if return response is not null
+
+            }
+            else
+            {
+                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
+            }
+        }
+    }
+
+    asyc postDataFun()
+    {
+        //postData
+    }
+
+
+    
+
+    class StatusModelClass
+    {
+        public string? id { get; set; }
+        public string? categoryname { get; set; }
+        public string? description { get; set; }
+        public int? status { get; set; }
+        public DateTime? createdAt { get; set; }
+        public DateTime? updatedAt { get; set; }
+    }
+}
