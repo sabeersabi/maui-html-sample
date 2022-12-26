@@ -1,1 +1,1 @@
-D:\Vineetha\ERP EMS\EMS\last.csproj;x64
+D:\maui sample\last.csproj;x64
