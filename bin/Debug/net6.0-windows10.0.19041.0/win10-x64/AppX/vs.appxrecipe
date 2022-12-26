@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\Vineetha\ERP EMS\EMS\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-26T12:04:48.197</Modified>
+      <Modified>2022-12-26T12:06:50.168</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Vineetha\ERP EMS\EMS\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-12-26T12:04:47.572</Modified>
+      <Modified>2022-12-26T12:06:49.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vineetha\ERP EMS\EMS\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\last.runtimeconfig.json">
       <PackagePath>last.runtimeconfig.json</PackagePath>
@@ -1131,7 +1131,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Vineetha\ERP EMS\EMS\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\last.deps.json">
       <PackagePath>last.deps.json</PackagePath>
-      <Modified>2022-12-26T12:04:48.016</Modified>
+      <Modified>2022-12-26T12:06:49.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\DELL\.nuget\packages\microsoft.maui.controls.ref.win\6.0.547\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
