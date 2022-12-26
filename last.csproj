@@ -49,4 +49,12 @@
         <MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="Pages\Leads.razor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="Pages\Leads.razor" />
+    </ItemGroup>
+
 </Project>
