@@ -8,8 +8,8 @@
     <style>
         .banner {
             position: relative;
-            height: 250px;
-            background-color: #e1f2f5;
+            height: 60px;
+            background-color:#19b8fc;
             background-size: cover;
             display: flex;
             justify-content: center;
@@ -121,7 +121,7 @@
     <form>
         <div class="form-group">
             <label for="Input">Full name</label>
-            <input type="email" class="form-control" id="name" placeholder="Enter your name">
+            <input type="text" class="form-control" id="name" placeholder="Enter your name">
         </div>
         <div class="form-group">
             <label for="Description">Description</label>
@@ -137,14 +137,41 @@
         </div>
         <br />
         <br />
-        <div @onclick="ToggleMenu">
-            <label class="switch" @onclick="ToggleMenu">
-                <input type="checkbox" @onclick="ToggleMenu">
-                <span class="slider round"></span>
-            </label>
-        </div>
-        <div class="@inputMenuCssClass"><input type="email" class="form-control" id="name" placeholder="Enter your name"></div>
+        <div>
+            <div style="flex-direction:row">
+                <p>
+                    <b>Field 1</b>
+                    <label class="switch">
+                    <input type="checkbox" @onclick="ToggleMenu">
+                    <span class="slider round"></span>
+                    </label>
+                    <div class="@inputMenuCssClass"><input type="text" class="form-control" id="name" placeholder="Enter value"></div>
+                </p>
+            </div>
+            
+            <div style="flex-direction:row">
+                    <p>
+                        <b>Field 2</b>
+                        <label class="switch">
+                            <input type="checkbox" @onclick="ToggleMenu2">
+                            <span class="slider round"></span>
+                        </label>
+                        <div class="@inputMenuCssClass2"><input type="text" class="form-control" id="name" placeholder="Enter value"></div>
+                    </p>
+                </div>
 
+            <div style="flex-direction:row">
+                <p>
+                    <b>Field 3</b>
+                    <label class="switch">
+                        <input type="checkbox" @onclick="ToggleMenu3">
+                        <span class="slider round"></span>
+                    </label>
+                    <div class="@inputMenuCssClass3"><input type="text" class="form-control" id="name" placeholder="Enter value"></div>
+                </p>
+            </div>
+            
+        </div>
         <div class="btn-block">
             <button type="submit">Submit</button>
         </div>
@@ -155,6 +182,7 @@
 
 
 </body>
+
 @code {
     private bool collapseInputMenu = true;
 
@@ -163,6 +191,24 @@
     private void ToggleMenu()
     {
         collapseInputMenu = !collapseInputMenu;
+    }
+    //field 2//
+    private bool collapseInputMenu2 = true;
+
+    private string inputMenuCssClass2 => collapseInputMenu2 ? "collapse" : null;
+
+    private void ToggleMenu2()
+    {
+        collapseInputMenu2 = !collapseInputMenu2;
+    }
+    //field 3//
+    private bool collapseInputMenu3 = true;
+
+    private string inputMenuCssClass3 => collapseInputMenu3 ? "collapse" : null;
+
+    private void ToggleMenu3()
+    {
+        collapseInputMenu3 = !collapseInputMenu3;
     }
 }
 
