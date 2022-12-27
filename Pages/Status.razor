@@ -124,15 +124,15 @@
     <form>
         <div class="form-group">
             <label for="Input">Full name</label>
-            <input type="text" class="form-control" id="name" placeholder="Enter your name">
+            <input type="text" class="form-control" id="name" placeholder="Enter your name" @bind-value="@userNameStatus">
         </div>
         <div class="form-group">
             <label for="Description">Description</label>
-            <textarea class="form-control" id="Description" rows="3"></textarea>
+            <textarea class="form-control" id="Description" rows="3" @bind="@descriptionStatus"></textarea>
         </div>
         <div class="form-group ">
             <label for="Select1">Select Type</label>
-            <select class="form-control" id="type1">
+            <select class="form-control" id="type1" @bind="@selectedType">
                 <option>Success</option>
                 <option>Warm</option>
                 <option>Error</option>
@@ -145,10 +145,10 @@
                 <p>
                     <b>Field 1</b>
                     <label class="switch">
-                    <input type="checkbox" @onclick="ToggleMenu">
+                        <input type="checkbox" @onclick="ToggleMenu">
                     <span class="slider round"></span>
                     </label>
-                    <div class="@inputMenuCssClass"><input type="text" class="form-control" id="name" placeholder="Enter value"></div>
+                    <div class="@inputMenuCssClass"><input type="text" class="form-control" id="name" placeholder="Enter value" @bind-value="@optionalItem1"></div>
                 </p>
             </div>
             
@@ -159,7 +159,7 @@
                             <input type="checkbox" @onclick="ToggleMenu2">
                             <span class="slider round"></span>
                         </label>
-                        <div class="@inputMenuCssClass2"><input type="text" class="form-control" id="name" placeholder="Enter value"></div>
+                    <div class="@inputMenuCssClass2"><input type="text" class="form-control" id="name" placeholder="Enter value" @bind="@optionalItem2"></div>
                     </p>
                 </div>
 
@@ -170,13 +170,13 @@
                         <input type="checkbox" @onclick="ToggleMenu3">
                         <span class="slider round"></span>
                     </label>
-                    <div class="@inputMenuCssClass3"><input type="text" class="form-control" id="name" placeholder="Enter value"></div>
+                    <div class="@inputMenuCssClass3"><input type="text" class="form-control" id="name" placeholder="Enter value" @bind-value="@optionalItem3"></div>
                 </p>
             </div>
             
         </div>
         <div class="btn-block">
-            <button type="submit">Submit</button>
+            <button type="submit" @onclick="@statusFunction">Submit</button>
         </div>
 
         
@@ -187,50 +187,9 @@
 </body>
 
 @code {
-    private bool collapseInputMenu = true;
-
-    private string inputMenuCssClass => collapseInputMenu ? "collapse" : null;
-
-    private void ToggleMenu()
-    {
-        collapseInputMenu = !collapseInputMenu;
-    }
-    //field 2//
-    private bool collapseInputMenu2 = true;
-
-    private string inputMenuCssClass2 => collapseInputMenu2 ? "collapse" : null;
-
-    private void ToggleMenu2()
-    {
-        collapseInputMenu2 = !collapseInputMenu2;
-    }
-    //field 3//
-    private bool collapseInputMenu3 = true;
-
-    private string inputMenuCssClass3 => collapseInputMenu3 ? "collapse" : null;
-
-    private void ToggleMenu3()
-    {
-        collapseInputMenu3 = !collapseInputMenu3;
-    }
-
-
     string userNameStatus = "";
     string descriptionStatus = "";
     string selectedType = "SUCCESS";
-
-    void descriptionStatusFun1()
-    {
-        selectedType = "SUCCESS";
-    }
-    void descriptionStatusFun2()
-    {
-        selectedType = "WARM";
-    }
-    void descriptionStatusFun3()
-    {
-        selectedType = "ERROR";
-    }
     //aditional items
 
     int item1 = 0;
@@ -240,7 +199,55 @@
     int item3 = 0;
     string optionalItem3 = "";
 
+    private bool collapseInputMenu = true;
 
+    private string inputMenuCssClass => collapseInputMenu ? "collapse" : null;
+
+    private void ToggleMenu()
+    {
+        collapseInputMenu = !collapseInputMenu;
+        if (collapseInputMenu)
+        {
+            item1 = 1;
+        }else
+        {
+            item1 = 0;
+        }
+    }
+    //field 2//
+    private bool collapseInputMenu2 = true;
+
+    private string inputMenuCssClass2 => collapseInputMenu2 ? "collapse" : null;
+
+    private void ToggleMenu2()
+    {
+        collapseInputMenu2 = !collapseInputMenu2;
+        if (collapseInputMenu)
+        {
+            item2 = 1;
+        }
+        else
+        {
+            item2 = 0;
+        }
+    }
+    //field 3//
+    private bool collapseInputMenu3 = true;
+
+    private string inputMenuCssClass3 => collapseInputMenu3 ? "collapse" : null;
+
+    private void ToggleMenu3()
+    {
+        collapseInputMenu3 = !collapseInputMenu3;
+        if (collapseInputMenu)
+        {
+            item3 = 1;
+        }
+        else
+        {
+            item3 = 0;
+        }
+    }
 
     async void statusFunction()
     {

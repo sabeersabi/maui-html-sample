@@ -1,4 +1,7 @@
 ﻿@page "/"
+@using Newtonsoft.Json;
+@using last.ConnectionData;
+@inject NavigationManager NavManager
 
 <html>
 <head>
@@ -159,11 +162,11 @@
                         <form>
                             <div class="form-group">
                                 <label class="form-control-label">USERNAME</label>
-                                <input type="text" class="form-control">
+                                <input type="text" class="form-control" @bind-value="@userNameInput">
                             </div>
                             <div class="form-group">
                                 <label class="form-control-label">PASSWORD</label>
-                                <input type="password" class="form-control" i>
+                                <input type="password" class="form-control" @bind-value="@passwordInput">
                             </div>
                            
 
@@ -173,7 +176,7 @@
                             <!-- Error Message -->
                                 <div class="col-lg-6 login-btm login-button">
                                     
-                                    <button type="submit" class="btn btn-outline-primary">LOGIN</button>
+                                    <button type="submit" class="btn btn-outline-primary" @onclick="@loginFunction">LOGIN</button>
                                 </div>
                                 <p>
                                     <input type="checkbox" checked="checked"> Remember me<br />
@@ -191,3 +194,93 @@
     </div>
 </body>
 </html>
+
+@code {
+    string userNameInput = "";
+    string passwordInput = "";
+
+    async void loginFunction()
+    {
+        //Login funtion
+
+        if (userNameInput == "" || passwordInput == "")
+        {
+            //Pop up alert window
+            await App.Current.MainPage.DisplayAlert("Alert", "Enter username/password", "OK");
+        }
+        else
+        {
+            //Call api and stuff
+
+            var loginData = new List<LoginModelClass>();
+            loginData = await getLoginData();
+            if (loginData != null)
+            {
+                //if return response is not null
+                bool present = true;
+
+                foreach (var temp in loginData)
+                {
+                    if (userNameInput == temp.userName && passwordInput == temp.password)
+                    {
+                        await App.Current.MainPage.DisplayAlert("Alert", "Welcome " + userNameInput, "OK");
+                        NavManager.NavigateTo("/counter");
+                        present = true;
+                        break;
+                    }
+                    else
+                    {
+
+                        //logic for continuos checking if not match
+                        present = false;
+                    }
+                }
+
+                if (present == false)
+                {
+                    await App.Current.MainPage.DisplayAlert("Alert", "Incorrect Username/Password" + userNameInput, "OK");
+                }
+            }
+            else
+            {
+                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
+            }
+        }
+    }
+
+    private async Task<List<LoginModelClass>> getLoginData()
+    {
+        string _baseUrl = ClsConnections.url;
+        var returnRespone = new List<LoginModelClass>();
+        try
+        {
+            using (var httpClient = new HttpClient())
+            {
+                string url = $"{_baseUrl}/local/logindetails";
+                var apiResponse = await httpClient.GetAsync(url);
+                if (apiResponse.StatusCode == System.Net.HttpStatusCode.OK)
+                {
+                    var response = await apiResponse.Content.ReadAsStringAsync();
+                    returnRespone =
+                        JsonConvert.DeserializeObject<List<LoginModelClass>>(response.ToString());
+                }
+                else
+                {
+                    await App.Current.MainPage.DisplayAlert("Alert", "network Error | Code : 1", "OK");
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            await App.Current.MainPage.DisplayAlert("Alert", ex.Message + " | Code : 1A", "OK");
+        }
+        return returnRespone;
+    }
+
+    class LoginModelClass
+    {
+        public string id { get; set; }
+        public string userName { get; set; }
+        public string password { get; set; }
+    }
+}
