@@ -1,0 +1,6 @@
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\EMSConnect\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\EMSConnect\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\EMSConnect\obj\Release\net6.0\win-x64\PubTmp\Out\EMSConnect.pdb
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\EMSConnect\obj\Release\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\EMSConnect\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\EMSConnect\obj\Release\net6.0\win-x64\PubTmp\Out\EMSConnect.exe
