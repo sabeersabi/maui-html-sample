@@ -61,6 +61,10 @@
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -75,6 +79,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.Razor": {
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20414.8, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -172,6 +180,10 @@
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -186,6 +198,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.Razor": {
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20414.8, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -264,6 +280,10 @@
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -278,6 +298,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.Razor": {
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20414.8, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -357,6 +381,10 @@
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -371,6 +399,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.Razor": {
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20414.8, )"
             },
             "Microsoft.Windows.SDK.BuildTools": {
               "suppressParent": "All",

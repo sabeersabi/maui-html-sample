@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\DCSTEST\Desktop\NEWDESIGN\last.csproj;x64
+=======
+D:\SUMA\CurrentWorkingFolder\MAUI\EMS\maui-html-sample\last.csproj;x64
+>>>>>>> 9c9877fd21589ad4d77b949020e411d266d40943
