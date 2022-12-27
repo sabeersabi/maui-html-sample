@@ -6,8 +6,8 @@
 <h3>Catagory</h3>
 
 @code {
-    string userNameStatus = "";
-    string descriptionStatus = "";
+    string catagoryName = "";
+    string descriptionCatagory = "";
     string selectedType = "SUCCESS";
 
     void descriptionStatusFun1()
@@ -24,20 +24,11 @@
     }
     //aditional items
 
-    int item1 = 0;
-    string optionalItem1 = "";
-    int item2 = 0;
-    string optionalItem2 = "";
-    int item3 = 0;
-    string optionalItem3 = "";
-
-
-
-    async void loginFunction()
+    async void catagoryFunction()
     {
         //Login funtion
 
-        if (userNameStatus == "" || descriptionStatus == "")
+        if (catagoryName == "" || descriptionCatagory == "")
         {
             //Pop up alert window
             await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
@@ -49,8 +40,8 @@
             var PostDataStatus = new CatagoryModelClass
                 {
                     id = 0,
-                    categoryname = userNameStatus,
-                    description = descriptionStatus,
+                    categoryname = catagoryName,
+                    description = descriptionCatagory,
 
                     status = 0,
                     
@@ -82,7 +73,7 @@
             }
             else
             {
-                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 1A-STS" + userNameStatus, "OK");
+                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 1A-STS" + catagoryName, "OK");
             }
         }
     }
@@ -101,7 +92,7 @@
             {
                 string responseString = "";
 
-                string url = $"{_baseUrl}/local/status";
+                    string url = $"{_baseUrl}/local/leadscategory";
 
                 //added
 
