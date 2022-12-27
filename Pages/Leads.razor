@@ -166,57 +166,227 @@
 </div>
 
 @code {
-    string userNameStatus = "";
-    string descriptionStatus = "";
-    string selectedType = "";
+    string catagoryName = "";
+    string descriptionCatagory = "";
+    string selectedType = "SUCCESS";
 
+    void descriptionStatusFun1()
+    {
+        selectedType = "SUCCESS";
+    }
+    void descriptionStatusFun2()
+    {
+        selectedType = "WARM";
+    }
+    void descriptionStatusFun3()
+    {
+        selectedType = "ERROR";
+    }
     //aditional items
 
-    string optionalItem1 = "";
-    string optionalItem2 = "";
-    string optionalItem3 = "";
-
-
-
-    async void loginFunction()
+    async void catagoryFunction()
     {
         //Login funtion
 
-        if (userNameStatus == "" || descriptionStatus == "")
+        if (catagoryName == "" || descriptionCatagory == "")
         {
             //Pop up alert window
-            //await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
+            await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
         }
         else
         {
             //Call api and stuff
 
-            var postData = new List<LeadsModelClass>();
-            //postData = await postDataFun();
+            var PostDataStatus = new LeadsModelClass
+                {
+                    id = 0,
+                    categoryname = catagoryName,
+                    description = descriptionCatagory,
 
-            if (postData != null)
+                    status = 0,
+
+                    createdAt = DateTime.Now,
+                    updatedAt = DateTime.Now
+                };
+
+            var responseOfPost = await postDataFun(PostDataStatus);
+
+            this.StateHasChanged();
+
+            //              THIS IS FOR WHEN RESPONSE IS DESERIALIZED
+            //if (response.message == "Login Successfully")
+            //{
+            //    //ALERT FOR SUCCESFUL LOGIN
+            //    await App.Current.MainPage.DisplayAlert("Message", "REGISTERED SUCCESFULLY" + response.message, "OK");
+            //}
+            //else
+            //{
+            //    //ALERT FOR UNSUCCESFUL LOGIN
+            //    await App.Current.MainPage.DisplayAlert("Message", response.message, "OK");
+            //}
+
+            if (responseOfPost != null)
             {
                 //if return response is not null
+                await App.Current.MainPage.DisplayAlert("Message", responseOfPost.message, "OK");
 
             }
             else
             {
-                //await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
+                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 1A-STS" + catagoryName, "OK");
             }
         }
     }
 
-    async void postDataFun()
+    async Task<PostResponse> postDataFun(LeadsModelClass LeadsModelClass)
     {
         //postData
+
+        string _baseUrl = ClsConnections.url;
+
+        var returnRespone = new PostResponse();
+
+        try
+        {
+            using (var httpClient = new HttpClient())
+            {
+                string responseString = "";
+
+                string url = $"{_baseUrl}/local/leadscategory";
+
+                //added
+
+                HttpResponseMessage response = new();
+                response.EnsureSuccessStatusCode();
+                HttpRequestMessage request = new HttpRequestMessage();
+
+                string strJSON1 = JsonConvert.SerializeObject(LeadsModelClass);
+                HttpMethod method = new HttpMethod("POST");
+
+                if (strJSON1.Length > 0)
+                {
+                    string ostr = strJSON1.Remove(strJSON1.Length - 1, 1);
+                    ostr = ostr.Remove(0, 1);
+                    strJSON1 = ostr;
+                    strJSON1 = strJSON1.Replace("jsonurlcatagory", "jsonurl");
+
+                    strJSON1 = "[{" + strJSON1 + "}]";
+
+                    var content = new StringContent(strJSON1, Encoding.UTF8, "application/json");
+                    var response2 = await httpClient.PostAsync(url, content); //client.PostAsync
+
+
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK)
+                    {
+                        responseString = await response2.Content.ReadAsStringAsync();
+
+                        returnRespone.message = responseString;
+                        //JsonConvert.DeserializeObject<PostResponse>(responseString.ToString());
+                        //returnRespone.message = siamese[0];
+                        //JsonConvert.DeserializeObject<List<PostResponse>>(responseString.ToString());
+
+
+                    }
+                    else
+                    {
+
+                        var ReturnString = "ERROR on fetching report requests. upload failed; " + Environment.NewLine + " response StatusCode is : " + response2.StatusCode.ToString() + Environment.NewLine;
+                        returnRespone.message = ReturnString;
+
+                    }
+                }
+                return returnRespone;
+
+
+            }
+        }
+        catch (Exception ex)
+        {
+            string msg = ex.Message;
+        }
+        return returnRespone;
+    }
+
+    //GET
+    async void getDataStatus()
+    {
+        //Call api and stuff
+
+        var loginData = new List<LoginModelClass>();
+        loginData = await getLoginData();
+        if (loginData != null)
+        {
+
+        }
+        else
+        {
+            await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
+        }
     }
 
 
-
+    class PostResponse
+    {
+        public string message { get; set; }
+    }
 
     class LeadsModelClass
     {
-        public string? id { get; set; }
+        public int id { get; set; }
+        public int status { get; set; }
+        public int leadscategoryid { get; set; }
+        public int employeeid { get; set; }
+
+        public string leadsname { get; set; }
+        
+        public int mobile1 { get; set; }
+
+        public string? source { get; set; }
+        
+        public DateTime? enquirydate { get; set; }
+        public DateTime? discussiondate { get; set; }
+
+        public string? address { get; set; }
+
+        public DateTime? followup { get; set; }
+
+        public string? businessname { get; set; }
+        public string? contactname { get; set; }
+
+        public int? mobile2 { get; set; }
+        public int? costcentreid { get; set; }
+
+        public string? followupreason { get; set; }
+        public string? field1 { get; set; }
+        public string? field2 { get; set; }
+        public string? field3 { get; set; }
+
+        public DateTime? createdAt { get; set; }
+
+        public DateTime? updatedAt { get; set; }
+    }
+
+    class StatusModelClass
+    {
+        public int id { get; set; }
+        public string? name { get; set; }
+        public string? description { get; set; }
+
+        public int? field1 { get; set; }
+        public string? field1value { get; set; }
+        public int? field2 { get; set; }
+        public string? field2value { get; set; }
+        public int? field3 { get; set; }
+        public string? field3value { get; set; }
+
+        public string? type { get; set; }
+        public DateTime? createdAt { get; set; }
+        public DateTime? updatedAt { get; set; }
+    }
+
+    class CatagoryModelClass
+    {
+        public int id { get; set; }
         public string? categoryname { get; set; }
         public string? description { get; set; }
         public int? status { get; set; }
