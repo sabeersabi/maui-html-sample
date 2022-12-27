@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vineetha\\ERP EMS\\EMS\\last.csproj": {}
+    "D:\\SUMA\\CurrentWorkingFolder\\MAUI\\EMS\\maui-html-sample\\last.csproj": {}
   },
   "projects": {
-    "D:\\Vineetha\\ERP EMS\\EMS\\last.csproj": {
+    "D:\\SUMA\\CurrentWorkingFolder\\MAUI\\EMS\\maui-html-sample\\last.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vineetha\\ERP EMS\\EMS\\last.csproj",
+        "projectUniqueName": "D:\\SUMA\\CurrentWorkingFolder\\MAUI\\EMS\\maui-html-sample\\last.csproj",
         "projectName": "last",
-        "projectPath": "D:\\Vineetha\\ERP EMS\\EMS\\last.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Vineetha\\ERP EMS\\EMS\\obj\\",
+        "projectPath": "D:\\SUMA\\CurrentWorkingFolder\\MAUI\\EMS\\maui-html-sample\\last.csproj",
+        "packagesPath": "C:\\Users\\dcs\\.nuget\\packages\\",
+        "outputPath": "D:\\SUMA\\CurrentWorkingFolder\\MAUI\\EMS\\maui-html-sample\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dcs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-android",
@@ -63,6 +62,10 @@
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -170,6 +173,10 @@
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -258,6 +265,10 @@
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
@@ -347,6 +358,10 @@
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[6.0.547, )",
