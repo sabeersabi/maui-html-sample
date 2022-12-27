@@ -1,4 +1,9 @@
 ﻿@page "/leads"
+@using Newtonsoft.Json;
+@using last.ConnectionData;
+@using System.Text;
+@inject NavigationManager NavManager
+
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 <link href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
 <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
@@ -148,7 +153,7 @@
                 </div>
             </div>
              <div class="card-footer">
-                <button class="btn btn-sm btn-primary" type="submit">
+                <button class="btn btn-sm btn-primary" type="submit" onclick="@loginFunction">
                     <i class="fa fa-dot-circle-o"></i> Submit
                 </button>
                 <button class="btn btn-sm btn-danger" type="reset">
@@ -180,14 +185,14 @@
         if (userNameStatus == "" || descriptionStatus == "")
         {
             //Pop up alert window
-            await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
+            //await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
         }
         else
         {
             //Call api and stuff
 
-            var postData = new List<StatusModelClass>();
-            postData = await postDataFun();
+            var postData = new List<LeadsModelClass>();
+            //postData = await postDataFun();
 
             if (postData != null)
             {
@@ -196,7 +201,7 @@
             }
             else
             {
-                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
+                //await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
             }
         }
     }
@@ -209,7 +214,7 @@
 
 
 
-    class StatusModelClass
+    class LeadsModelClass
     {
         public string? id { get; set; }
         public string? categoryname { get; set; }

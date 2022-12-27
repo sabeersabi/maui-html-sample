@@ -1,0 +1,176 @@
+﻿@using Newtonsoft.Json;
+@using last.ConnectionData;
+@using System.Text;
+@inject NavigationManager NavManager
+
+<h3>Catagory</h3>
+
+@code {
+    string userNameStatus = "";
+    string descriptionStatus = "";
+    string selectedType = "SUCCESS";
+
+    void descriptionStatusFun1()
+    {
+        selectedType = "SUCCESS";
+    }
+    void descriptionStatusFun2()
+    {
+        selectedType = "WARM";
+    }
+    void descriptionStatusFun3()
+    {
+        selectedType = "ERROR";
+    }
+    //aditional items
+
+    int item1 = 0;
+    string optionalItem1 = "";
+    int item2 = 0;
+    string optionalItem2 = "";
+    int item3 = 0;
+    string optionalItem3 = "";
+
+
+
+    async void loginFunction()
+    {
+        //Login funtion
+
+        if (userNameStatus == "" || descriptionStatus == "")
+        {
+            //Pop up alert window
+            await App.Current.MainPage.DisplayAlert("Alert", "Enter username/description", "OK");
+        }
+        else
+        {
+            //Call api and stuff
+
+            var PostDataStatus = new CatagoryModelClass
+                {
+                    id = 0,
+                    categoryname = userNameStatus,
+                    description = descriptionStatus,
+
+                    status = 0,
+                    
+                    createdAt = DateTime.Now,
+                    updatedAt = DateTime.Now
+                };
+
+            var responseOfPost = await postDataFun(PostDataStatus);
+
+            this.StateHasChanged();
+
+            //              THIS IS FOR WHEN RESPONSE IS DESERIALIZED
+            //if (response.message == "Login Successfully")
+            //{
+            //    //ALERT FOR SUCCESFUL LOGIN
+            //    await App.Current.MainPage.DisplayAlert("Message", "REGISTERED SUCCESFULLY" + response.message, "OK");
+            //}
+            //else
+            //{
+            //    //ALERT FOR UNSUCCESFUL LOGIN
+            //    await App.Current.MainPage.DisplayAlert("Message", response.message, "OK");
+            //}
+
+            if (responseOfPost != null)
+            {
+                //if return response is not null
+                await App.Current.MainPage.DisplayAlert("Message", responseOfPost.message, "OK");
+
+            }
+            else
+            {
+                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 1A-STS" + userNameStatus, "OK");
+            }
+        }
+    }
+
+    async Task<PostResponse> postDataFun(CatagoryModelClass CatagoryModelClass)
+    {
+        //postData
+
+        string _baseUrl = ClsConnections.url;
+
+        var returnRespone = new PostResponse();
+
+        try
+        {
+            using (var httpClient = new HttpClient())
+            {
+                string responseString = "";
+
+                string url = $"{_baseUrl}/local/status";
+
+                //added
+
+                HttpResponseMessage response = new();
+                response.EnsureSuccessStatusCode();
+                HttpRequestMessage request = new HttpRequestMessage();
+
+                string strJSON1 = JsonConvert.SerializeObject(CatagoryModelClass);
+                HttpMethod method = new HttpMethod("POST");
+
+                if (strJSON1.Length > 0)
+                {
+                    string ostr = strJSON1.Remove(strJSON1.Length - 1, 1);
+                    ostr = ostr.Remove(0, 1);
+                    strJSON1 = ostr;
+                    strJSON1 = strJSON1.Replace("jsonurlcatagory", "jsonurl");
+
+                    strJSON1 = "[{" + strJSON1 + "}]";
+
+                    var content = new StringContent(strJSON1, Encoding.UTF8, "application/json");
+                    var response2 = await httpClient.PostAsync(url, content); //client.PostAsync
+
+
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK)
+                    {
+                        responseString = await response2.Content.ReadAsStringAsync();
+
+                        returnRespone.message = responseString;
+                        //JsonConvert.DeserializeObject<PostResponse>(responseString.ToString());
+                        //returnRespone.message = siamese[0];
+                        //JsonConvert.DeserializeObject<List<PostResponse>>(responseString.ToString());
+
+
+                    }
+                    else
+                    {
+
+                        var ReturnString = "ERROR on fetching report requests. upload failed; " + Environment.NewLine + " response StatusCode is : " + response2.StatusCode.ToString() + Environment.NewLine;
+                        returnRespone.message = ReturnString;
+
+                    }
+                }
+                return returnRespone;
+
+
+            }
+        }
+        catch (Exception ex)
+        {
+            string msg = ex.Message;
+        }
+        return returnRespone;
+    }
+
+
+
+
+    class PostResponse
+    {
+        public string message { get; set; }
+    }
+
+    class CatagoryModelClass
+    {
+        public int id { get; set; }
+        public string? categoryname { get; set; }
+        public string? description { get; set; }
+        public int? status { get; set; }
+        public DateTime? createdAt { get; set; }
+        public DateTime? updatedAt { get; set; }
+    }
+}

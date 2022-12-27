@@ -8,6 +8,6 @@ namespace last.ConnectionData
 {
     public class ClsConnections
     {
-        public static string url = "http://172.16.1.7:4197";
+        public static string url = "http://172.16.1.18:4197";
     }
 }

@@ -1,6 +1,7 @@
 ﻿@page "/status"
 @using Newtonsoft.Json;
 @using last.ConnectionData;
+@using System.Text;
 @inject NavigationManager NavManager
 
 <!DOCTYPE html>
@@ -126,18 +127,18 @@
     <form>
         <div class="form-group">
             <label for="Input">Full name</label>
-            <input type="email" class="form-control" id="name" placeholder="Enter your name">
+            <input type="text" class="form-control" id="name" placeholder="Enter your name" @bind-value="@userNameStatus">
         </div>
         <div class="form-group">
             <label for="Description">Description</label>
-            <textarea class="form-control" id="Description" rows="3"></textarea>
+            <input class="form-control" id="Description" rows="3" @bind-value="@descriptionStatus"></input>
         </div>
         <div class="form-group ">
             <label for="Select1">Select Type</label>
-            <select class="form-control" id="type1">
-                <option>Success</option>
-                <option>Warm</option>
-                <option>Error</option>
+            <select class="form-control" id="type1" >
+                <option @onclick="@descriptionStatusFun1">Success</option>
+                <option @onclick="@descriptionStatusFun2">Warm</option>
+                <option @onclick="@descriptionStatusFun3">Error</option>
             </select>
         </div>
         <br />
@@ -146,11 +147,11 @@
             <label class="switch">
                 <input type="checkbox">
                 <span class="slider round"></span>
-            </label>add feild
+            </label>add field
         </div>
 
         <div class="btn-block">
-            <button type="submit">Submit</button>
+            <button type="submit" onclick="@loginFunction">Submit</button>
         </div>
 
     </form>
@@ -163,12 +164,27 @@
 @code{
     string userNameStatus = "";
     string descriptionStatus = "";
-    string selectedType = "";
+    string selectedType = "SUCCESS";
 
+    void descriptionStatusFun1()
+    {
+        selectedType = "SUCCESS";
+    }
+    void descriptionStatusFun2()
+    {
+        selectedType = "WARM";
+    }
+    void descriptionStatusFun3()
+    {
+        selectedType = "ERROR";
+    }
     //aditional items
 
+    int item1 = 0;
     string optionalItem1 = "";
+    int item2 = 0;
     string optionalItem2 = "";
+    int item3 = 0;
     string optionalItem3 = "";
 
 
@@ -186,35 +202,143 @@
         {
             //Call api and stuff
 
-            var postData = new List<StatusModelClass>();
-            postData = await postDataFun();
+            var PostDataStatus = new StatusModelClass
+                {
+                    id = 0,
+                    name = userNameStatus,
+                    description = descriptionStatus,
 
-            if (postData != null)
+                    field1 = 0,
+                    field1value = "",
+                    field2 = 0,
+                    field2value = "",
+                    field3 = 0,
+                    field3value = "",
+                    type = selectedType,
+                    createdAt = DateTime.Now,
+                    updatedAt = DateTime.Now
+                };
+
+            var responseOfPost = await postDataFun(PostDataStatus);
+
+            this.StateHasChanged();
+
+            //              THIS IS FOR WHEN RESPONSE IS DESERIALIZED
+            //if (response.message == "Login Successfully")
+            //{
+            //    //ALERT FOR SUCCESFUL LOGIN
+            //    await App.Current.MainPage.DisplayAlert("Message", "REGISTERED SUCCESFULLY" + response.message, "OK");
+            //}
+            //else
+            //{
+            //    //ALERT FOR UNSUCCESFUL LOGIN
+            //    await App.Current.MainPage.DisplayAlert("Message", response.message, "OK");
+            //}
+
+            if (responseOfPost != null)
             {
                 //if return response is not null
+                await App.Current.MainPage.DisplayAlert("Message", responseOfPost.message, "OK");
 
             }
             else
             {
-                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 2" + userNameInput, "OK");
+                await App.Current.MainPage.DisplayAlert("Alert", "Network Error | Code : 1A-STS" + userNameStatus, "OK");
             }
         }
     }
 
-    asyc postDataFun()
+    async Task<PostResponse> postDataFun(StatusModelClass statusModelClass)
     {
         //postData
+
+        string _baseUrl = ClsConnections.url;
+
+        var returnRespone = new PostResponse();
+
+        try
+        {
+            using (var httpClient = new HttpClient())
+            {
+                string responseString = "";
+
+                string url = $"{_baseUrl}/local/status";
+
+                //added
+
+                HttpResponseMessage response = new();
+                response.EnsureSuccessStatusCode();
+                HttpRequestMessage request = new HttpRequestMessage();
+
+                string strJSON1 = JsonConvert.SerializeObject(statusModelClass);
+                HttpMethod method = new HttpMethod("POST");
+
+                if (strJSON1.Length > 0)
+                {
+                    string ostr = strJSON1.Remove(strJSON1.Length - 1, 1);
+                    ostr = ostr.Remove(0, 1);
+                    strJSON1 = ostr;
+                    strJSON1 = strJSON1.Replace("jsonurlcatagory", "jsonurl");
+
+                    strJSON1 = "[{" + strJSON1 + "}]";
+
+                    var content = new StringContent(strJSON1, Encoding.UTF8, "application/json");
+                    var response2 = await httpClient.PostAsync(url, content); //client.PostAsync
+
+
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK)
+                    {
+                        responseString = await response2.Content.ReadAsStringAsync();
+
+                        returnRespone.message = responseString;
+                        //JsonConvert.DeserializeObject<PostResponse>(responseString.ToString());
+                        //returnRespone.message = siamese[0];
+                        //JsonConvert.DeserializeObject<List<PostResponse>>(responseString.ToString());
+
+
+                    }
+                    else
+                    {
+
+                        var ReturnString = "ERROR on fetching report requests. upload failed; " + Environment.NewLine + " response StatusCode is : " + response2.StatusCode.ToString() + Environment.NewLine;
+                        returnRespone.message = ReturnString;
+
+                    }
+                }
+                return returnRespone;
+
+
+            }
+        }
+        catch (Exception ex)
+        {
+            string msg = ex.Message;
+        }
+        return returnRespone;
     }
 
 
-    
+
+
+    class PostResponse
+    {
+        public string message { get; set; }
+    }
+
 
     class StatusModelClass
     {
-        public string? id { get; set; }
-        public string? categoryname { get; set; }
+        public int id { get; set; }
+        public string? name { get; set; }
         public string? description { get; set; }
-        public int? status { get; set; }
+        public int? field1 { get; set; }
+        public string? field1value { get; set; }
+        public int? field2 { get; set; }
+        public string? field2value { get; set; }
+        public int? field3 { get; set; }
+        public string? field3value { get; set; }
+
+        public string? type { get; set; }
         public DateTime? createdAt { get; set; }
         public DateTime? updatedAt { get; set; }
     }
